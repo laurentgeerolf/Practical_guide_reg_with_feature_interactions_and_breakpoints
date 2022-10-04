@@ -1,6 +1,7 @@
 # Practical data analytics guide:  Finding explicit polynomial relations in problems with feature interactions and breakpoints
 
-The notebook to open is "Final.ipynb"
+The notebook to open is "Final.ipynb".
+
 The helper functions are located in the utils.py file
 
 ### **Problem statement:**
