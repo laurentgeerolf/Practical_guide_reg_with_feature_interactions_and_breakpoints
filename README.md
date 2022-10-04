@@ -1,4 +1,8 @@
 # Practical data analytics guide:  Finding explicit polynomial relations in problems with feature interactions and breakpoints
+
+The notebook to open is "Final.ipynb"
+The helper functions are located in the utils.py file
+
 ### **Problem statement:**
 
 When studying real-world engineering data, one usually wants to find models that makes sense from a physical point of view, and identify the parameters of the model through data analysis. However, in complex systems (for example electric machines or fluid mechanics), several physical phenomena compete with each other, and complex interactions may occur. 
